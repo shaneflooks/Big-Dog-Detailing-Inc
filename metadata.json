@@ -1,0 +1,9 @@
+{
+  "name": "Big Dog Detailing Inc.",
+  "description": "Award-winning auto detailing and pressure washing services in Saint John, New Brunswick.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
